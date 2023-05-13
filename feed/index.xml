@@ -9,8 +9,8 @@
 
 <channel>
 	<title>CloudViva</title>
-	<atom:link href="https://snamanya.github.io/websitepm/feed/" rel="self" type="application/rss+xml" />
-	<link>https://snamanya.github.io/websitepm/</link>
+	<atom:link href="https://snamanya.github.io/cloudviva/feed/" rel="self" type="application/rss+xml" />
+	<link>https://snamanya.github.io/cloudviva/</link>
 	<description>Get your cloud on</description>
 	<lastBuildDate>Fri, 12 May 2023 19:14:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://snamanya.github.io/websitepm/wp-content/uploads/2023/05/cropped-CloudViva-logo-32x32.png</url>
+	<url>https://snamanya.github.io/cloudviva/wp-content/uploads/2023/05/cropped-CloudViva-logo-32x32.png</url>
 	<title>CloudViva</title>
-	<link>https://snamanya.github.io/websitepm/</link>
+	<link>https://snamanya.github.io/cloudviva/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://snamanya.github.io/websitepm/hello-world/</link>
-					<comments>https://snamanya.github.io/websitepm/hello-world/#comments</comments>
+		<link>https://snamanya.github.io/cloudviva/hello-world/</link>
+					<comments>https://snamanya.github.io/cloudviva/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[cloudviva]]></dc:creator>
 		<pubDate>Fri, 12 May 2023 19:14:20 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://snamanya.github.io/websitepm/?p=1</guid>
+		<guid isPermaLink="false">https://snamanya.github.io/cloudviva/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://snamanya.github.io/websitepm/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://snamanya.github.io/cloudviva/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
